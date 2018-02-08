@@ -1,0 +1,210 @@
+Months_since_IRS,N,NTOTALdead,NTOTALfed,NTOTALexit,Group,Datasource
+1,152,0,145,26,control,Agossa2014
+2,73,0,71,14,control,Agossa2014
+6,138,0,122,18,control,Agossa2014
+0.25,22,2,17,2,control,UNPUBLISHED_Data_Corbel
+0.5,16,0,16,3,control,UNPUBLISHED_Data_Corbel
+0.75,28,0,26,8,control,UNPUBLISHED_Data_Corbel
+1,39,0,37,10,control,UNPUBLISHED_Data_Corbel
+1.25,53,0,45,20,control,UNPUBLISHED_Data_Corbel
+1.5,56,0,52,12,control,UNPUBLISHED_Data_Corbel
+1.75,44,1,42,16,control,UNPUBLISHED_Data_Corbel
+2,42,0,37,13,control,UNPUBLISHED_Data_Corbel
+2.25,103,0,93,32,control,UNPUBLISHED_Data_Corbel
+2.5,56,0,56,8,control,UNPUBLISHED_Data_Corbel
+2.75,52,0,45,12,control,UNPUBLISHED_Data_Corbel
+3,137,0,99,55,control,UNPUBLISHED_Data_Corbel
+3.25,57,0,50,7,control,UNPUBLISHED_Data_Corbel
+3.5,117,1,110,18,control,UNPUBLISHED_Data_Corbel
+3.75,40,0,39,6,control,UNPUBLISHED_Data_Corbel
+4,22,0,22,3,control,UNPUBLISHED_Data_Corbel
+4.25,27,0,27,6,control,UNPUBLISHED_Data_Corbel
+4.5,31,0,31,8,control,UNPUBLISHED_Data_Corbel
+4.75,46,0,46,23,control,UNPUBLISHED_Data_Corbel
+5,49,1,49,19,control,UNPUBLISHED_Data_Corbel
+5.25,52,1,52,20,control,UNPUBLISHED_Data_Corbel
+5.5,55,1,55,27,control,UNPUBLISHED_Data_Corbel
+5.75,55,1,55,25,control,UNPUBLISHED_Data_Corbel
+6,56,1,55,27,control,UNPUBLISHED_Data_Corbel
+6.25,59,1,58,23,control,UNPUBLISHED_Data_Corbel
+6.5,54,1,53,21,control,UNPUBLISHED_Data_Corbel
+6.75,50,0,49,23,control,UNPUBLISHED_Data_Corbel
+7,71,0,70,25,control,UNPUBLISHED_Data_Corbel
+7.25,72,0,71,23,control,UNPUBLISHED_Data_Corbel
+7.5,88,0,87,33,control,UNPUBLISHED_Data_Corbel
+7.75,97,0,97,34,control,UNPUBLISHED_Data_Corbel
+8,111,0,111,36,control,UNPUBLISHED_Data_Corbel
+8.25,130,0,128,32,control,UNPUBLISHED_Data_Corbel
+8.5,125,0,123,34,control,UNPUBLISHED_Data_Corbel
+8.75,108,0,106,29,control,UNPUBLISHED_Data_Corbel
+9,124,0,122,26,control,UNPUBLISHED_Data_Corbel
+9.25,118,0,115,17,control,UNPUBLISHED_Data_Corbel
+9.5,121,0,118,27,control,UNPUBLISHED_Data_Corbel
+9.75,108,0,105,24,control,UNPUBLISHED_Data_Corbel
+1,736,24,696,440,control,Rowland 2013
+2,568,56,544,240,control,Rowland 2013
+3,1104,48,1088,376,control,Rowland 2013
+4,1552,168,1328,648,control,Rowland 2013
+5,1304,104,1168,576,control,Rowland 2013
+6,984,152,744,448,control,Rowland 2013
+7,1032,128,968,392,control,Rowland 2013
+8,280,8,256,104,control,Rowland 2013
+9,712,136,672,320,control,Rowland 2013
+10,544,96,504,136,control,Rowland 2013
+11,504,64,368,184,control,Rowland 2013
+12,968,72,840,480,control,Rowland 2013
+0.25,316,4,228,92,control,Ngufor_2016
+0.5,188,4,76,76,control,Ngufor_2016
+0.75,152,8,76,76,control,Ngufor_2016
+1,76,0,56,20,control,Ngufor_2016
+1.25,108,12,76,24,control,Ngufor_2016
+1.5,92,0,52,28,control,Ngufor_2016
+1.75,232,24,184,48,control,Ngufor_2016
+2,76,12,56,16,control,Ngufor_2016
+1,44,0,43,2,control,Agossa2015PLoSOne
+2,49,0,33,6,control,Agossa2015PLoSOne
+3,114,0,92,13,control,Agossa2015PLoSOne
+4,125,0,103,13,control,Agossa2015PLoSOne
+5,138,0,122,18,control,Agossa2015PLoSOne
+6,136,0,120,18,control,Agossa2015PLoSOne
+1,44,0,43,2,control,Agossa2015PLoSOne
+2,49,0,33,6,control,Agossa2015PLoSOne
+3,114,0,92,13,control,Agossa2015PLoSOne
+4,125,0,103,13,control,Agossa2015PLoSOne
+5,138,0,122,18,control,Agossa2015PLoSOne
+6,136,0,120,18,control,Agossa2015PLoSOne
+1,44,0,43,2,control,Agossa2015PLoSOne
+2,49,0,33,6,control,Agossa2015PLoSOne
+3,114,0,92,13,control,Agossa2015PLoSOne
+4,125,0,103,13,control,Agossa2015PLoSOne
+5,138,0,122,18,control,Agossa2015PLoSOne
+6,136,0,120,18,control,Agossa2015PLoSOne
+1.5,71,22,60,16,control,Tchicaya2014
+4.5,13,6,10,4,control,Tchicaya2014
+9,51,8,48,23,control,Tchicaya2014
+1.5,146,59,127,29,control,Tchicaya2014
+4.5,10,6,7,3,control,Tchicaya2014
+9,50,14,42,14,control,Tchicaya2014
+1.5,136,47,114,32,control,Tchicaya2014
+4.5,23,8,21,7,control,Tchicaya2014
+9,38,3,32,14,control,Tchicaya2014
+1.5,86,36,55,32,control,Tchicaya2014
+4.5,10,4,6,5,control,Tchicaya2014
+9,13,4,9,6,control,Tchicaya2014
+1.5,513,88,340,135,control,Tchicaya2014
+4.5,620,164,459,277,control,Tchicaya2014
+9,1260,113,1035,444,control,Tchicaya2014
+1.5,686,139,554,225,control,Tchicaya2014
+4.5,736,210,608,242,control,Tchicaya2014
+9,961,126,807,490,control,Tchicaya2014
+1.5,970,179,685,359,control,Tchicaya2014
+4.5,646,143,441,270,control,Tchicaya2014
+9,1061,96,843,463,control,Tchicaya2014
+1.5,902,174,611,304,control,Tchicaya2014
+4.5,1151,242,728,456,control,Tchicaya2014
+9,980,93,685,433,control,Tchicaya2014
+,,,,,,
+1,176,162,148,88,Lambda_spray,Agossa2014
+2,118,11,110,36,Lambda_spray,Agossa2014
+6,85,3,78,17,Lambda_spray,Agossa2014
+0.25,16,13,12,7,Delta_spray,UNPUBLISHED_Data_Corbel
+0.5,6,3,6,3,Delta_spray,UNPUBLISHED_Data_Corbel
+0.75,18,12,15,8,Delta_spray,UNPUBLISHED_Data_Corbel
+1,26,9,25,11,Delta_spray,UNPUBLISHED_Data_Corbel
+1.25,47,12,38,24,Delta_spray,UNPUBLISHED_Data_Corbel
+1.5,57,21,45,32,Delta_spray,UNPUBLISHED_Data_Corbel
+1.75,32,5,27,17,Delta_spray,UNPUBLISHED_Data_Corbel
+2,49,12,29,24,Delta_spray,UNPUBLISHED_Data_Corbel
+2.25,42,11,30,15,Delta_spray,UNPUBLISHED_Data_Corbel
+2.5,48,5,44,18,Delta_spray,UNPUBLISHED_Data_Corbel
+2.75,51,5,46,18,Delta_spray,UNPUBLISHED_Data_Corbel
+3,85,18,67,37,Delta_spray,UNPUBLISHED_Data_Corbel
+3.25,64,12,54,34,Delta_spray,UNPUBLISHED_Data_Corbel
+3.5,90,15,73,42,Delta_spray,UNPUBLISHED_Data_Corbel
+3.75,41,8,40,17,Delta_spray,UNPUBLISHED_Data_Corbel
+4,22,1,21,12,Delta_spray,UNPUBLISHED_Data_Corbel
+4.25,17,2,14,10,Delta_spray,UNPUBLISHED_Data_Corbel
+4.5,25,2,24,10,Delta_spray,UNPUBLISHED_Data_Corbel
+4.75,30,3,30,12,Delta_spray,UNPUBLISHED_Data_Corbel
+5,34,3,34,14,Delta_spray,UNPUBLISHED_Data_Corbel
+5.25,33,3,33,14,Delta_spray,UNPUBLISHED_Data_Corbel
+5.5,35,3,34,13,Delta_spray,UNPUBLISHED_Data_Corbel
+5.75,40,2,39,13,Delta_spray,UNPUBLISHED_Data_Corbel
+6,50,5,46,17,Delta_spray,UNPUBLISHED_Data_Corbel
+6.25,60,4,56,24,Delta_spray,UNPUBLISHED_Data_Corbel
+6.5,58,3,54,23,Delta_spray,UNPUBLISHED_Data_Corbel
+6.75,53,3,49,20,Delta_spray,UNPUBLISHED_Data_Corbel
+7,60,3,56,24,Delta_spray,UNPUBLISHED_Data_Corbel
+7.25,65,4,61,26,Delta_spray,UNPUBLISHED_Data_Corbel
+7.5,69,4,65,34,Delta_spray,UNPUBLISHED_Data_Corbel
+7.75,71,1,69,35,Delta_spray,UNPUBLISHED_Data_Corbel
+8,64,1,62,28,Delta_spray,UNPUBLISHED_Data_Corbel
+8.25,75,1,73,36,Delta_spray,UNPUBLISHED_Data_Corbel
+8.5,82,1,80,38,Delta_spray,UNPUBLISHED_Data_Corbel
+8.75,82,1,79,40,Delta_spray,UNPUBLISHED_Data_Corbel
+9,83,0,81,38,Delta_spray,UNPUBLISHED_Data_Corbel
+9.25,75,0,73,30,Delta_spray,UNPUBLISHED_Data_Corbel
+9.5,73,0,72,30,Delta_spray,UNPUBLISHED_Data_Corbel
+9.75,75,0,74,30,Delta_spray,UNPUBLISHED_Data_Corbel
+1,1032,696,1024,904,Alpha_spray,Rowland 2013
+2,784,168,728,576,Alpha_spray,Rowland 2013
+3,968,200,848,608,Alpha_spray,Rowland 2013
+4,1368,232,1288,792,Alpha_spray,Rowland 2013
+5,1144,160,1032,712,Alpha_spray,Rowland 2013
+6,776,192,680,488,Alpha_spray,Rowland 2013
+7,912,120,832,480,Alpha_spray,Rowland 2013
+8,200,24,200,48,Alpha_spray,Rowland 2013
+9,576,80,568,376,Alpha_spray,Rowland 2013
+10,264,56,264,176,Alpha_spray,Rowland 2013
+11,456,32,440,264,Alpha_spray,Rowland 2013
+12,712,64,664,520,Alpha_spray,Rowland 2013
+0.25,312,24,292,304,Alpha_spray,Ngufor_2016
+0.5,292,0,272,292,Alpha_spray,Ngufor_2016
+0.75,164,0,132,164,Alpha_spray,Ngufor_2016
+1,148,16,132,144,Alpha_spray,Ngufor_2016
+1.25,164,4,148,164,Alpha_spray,Ngufor_2016
+1.5,72,0,72,72,Alpha_spray,Ngufor_2016
+1.75,188,12,188,184,Alpha_spray,Ngufor_2016
+2,188,8,184,188,Alpha_spray,Ngufor_2016
+1,37,4,32,15,Alpha_spray,Agossa2015PLoSOne
+2,26,8,12,11,Alpha_spray,Agossa2015PLoSOne
+3,70,17,48,26,Alpha_spray,Agossa2015PLoSOne
+4,100,11,85,31,Alpha_spray,Agossa2015PLoSOne
+5,108,7,101,38,Alpha_spray,Agossa2015PLoSOne
+6,96,6,89,26,Alpha_spray,Agossa2015PLoSOne
+1,29,9,20,17,Delta_spray,Agossa2015PLoSOne
+2,36,14,21,20,Delta_spray,Agossa2015PLoSOne
+3,102,36,87,39,Delta_spray,Agossa2015PLoSOne
+4,111,24,96,39,Delta_spray,Agossa2015PLoSOne
+5,93,6,89,32,Delta_spray,Agossa2015PLoSOne
+6,100,5,96,24,Delta_spray,Agossa2015PLoSOne
+1,60,9,42,34,Lambda_spray,Agossa2015PLoSOne
+2,24,6,12,8,Lambda_spray,Agossa2015PLoSOne
+3,73,18,48,24,Lambda_spray,Agossa2015PLoSOne
+4,105,15,83,17,Lambda_spray,Agossa2015PLoSOne
+5,100,9,93,32,Lambda_spray,Agossa2015PLoSOne
+6,111,6,104,21,Lambda_spray,Agossa2015PLoSOne
+1.5,60,57,35,43,Lambda_spray,Tchicaya2014
+4.5,8,7,1,1,Lambda_spray,Tchicaya2014
+9,20,9,17,7,Lambda_spray,Tchicaya2014
+1.5,33,23,12,22,Lambda_spray,Tchicaya2014
+4.5,3,2,2,2,Lambda_spray,Tchicaya2014
+9,13,5,9,12,Lambda_spray,Tchicaya2014
+1.5,64,59,41,31,Lambda_spray,Tchicaya2014
+4.5,4,1,4,4,Lambda_spray,Tchicaya2014
+9,37,4,32,29,Lambda_spray,Tchicaya2014
+1.5,45,39,22,23,Lambda_spray,Tchicaya2014
+4.5,2,0,1,2,Lambda_spray,Tchicaya2014
+9,25,10,16,19,Lambda_spray,Tchicaya2014
+1.5,818,552,584,654,Lambda_spray,Tchicaya2014
+4.5,675,337,481,510,Lambda_spray,Tchicaya2014
+9,1102,248,841,790,Lambda_spray,Tchicaya2014
+1.5,746,492,462,542,Lambda_spray,Tchicaya2014
+4.5,525,268,354,386,Lambda_spray,Tchicaya2014
+9,1153,335,806,777,Lambda_spray,Tchicaya2014
+1.5,746,415,487,506,Lambda_spray,Tchicaya2014
+4.5,596,202,441,399,Lambda_spray,Tchicaya2014
+9,1018,173,721,708,Lambda_spray,Tchicaya2014
+1.5,1280,721,660,871,Lambda_spray,Tchicaya2014
+4.5,1063,300,577,621,Lambda_spray,Tchicaya2014
+9,1256,242,782,746,Lambda_spray,Tchicaya2014
